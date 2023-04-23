@@ -1,0 +1,38 @@
+body {
+    background: rgb(229, 250, 219);
+    font-family:Roboto, Arial, sans-serif;
+    font-size: 15px;
+    color: rgb(0, 0, 0 0.5);
+    margin: 0;
+    line-height: 1.5;
+}
+
+a {
+    color: inherit;
+}
+.topbarH a {
+    text-decoration: none;
+}
+
+.topbarH {
+    background: rgb(95, 114, 98);
+    color: rgb(255, 255, 255);
+}
+
+.topbarT {
+    font-size: 24px;
+    display: block;
+    text-align: center;
+    padding: 11px 0;
+}
+
+.topbarN {
+    color: rgb(190, 190, 190);
+    display: block;
+    text-align: center;
+    margin: 50px;
+}
+
+.active {
+    color: rgb(255, 255, 255);
+}
